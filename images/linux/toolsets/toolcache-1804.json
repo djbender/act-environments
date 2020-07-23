@@ -1,0 +1,5 @@
+{
+    "@actions/toolcache-ruby-ubuntu-1804-x64": [
+        "2.6", "2.7"
+    ]
+}
